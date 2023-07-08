@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-learning linux commands
+learning software engineering from alx
